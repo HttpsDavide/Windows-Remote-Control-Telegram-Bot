@@ -126,4 +126,6 @@ The bot automatically saves any photo or video sent to it into the desktop folde
 
 This tool is intended for personal use only. Use it responsibly. The author is not responsible for any misuse.
 
+![Screenshot 2025-05-20 000146](https://github.com/user-attachments/assets/23abb071-98fe-481c-bba4-d9fe47f659d2)
+![Screenshot 2025-05-20 000300](https://github.com/user-attachments/assets/7fc5e508-3e99-48af-b5d7-4f2cdcb364aa)
 
